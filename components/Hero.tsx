@@ -14,7 +14,7 @@ const Hero: React.FC = () => {
         <div className="absolute inset-0 bg-gradient-to-r from-[#FFFDF9]/90 via-[#FFFDF9]/40 to-transparent" />
       </div>
 
-      <div className="container mx-auto px-6 relative z-10 pt-20">
+      <div className="container mx-auto px-6 relative z-10 pt-20 pb-32 md:pb-0">
         <div className="max-w-2xl">
           <span className="inline-block mb-4 px-4 py-1 rounded-full bg-[#F5E6D3] text-[#8B5E3C] text-sm font-bold tracking-widest uppercase">
             EST. 2024 • ABRAKA, DELTA
