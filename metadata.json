@@ -1,0 +1,8 @@
+{
+  "name": "Lola's Café — Abraka's Modern Coffee Haven",
+  "description": "A visually captivating, warm, and stylish digital experience for Lola's Café in Abraka, Delta State. Featuring a chic menu, aesthetic visuals, and an AI-powered taste assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
