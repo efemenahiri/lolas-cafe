@@ -76,6 +76,23 @@ export const getTasteRecommendation = async (userMood: string) => {
       }
     ];
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
     return fallbacks[Math.floor(Math.random() * fallbacks.length)];
   }
 };
